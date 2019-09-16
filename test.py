@@ -2,5 +2,6 @@ import os
 import torch
 
 print("all")
+print("all")
 
-p
+print("all")
